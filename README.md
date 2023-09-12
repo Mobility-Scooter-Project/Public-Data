@@ -1,4 +1,4 @@
-E### Participants
+### Participants
 
 We gathered data from 42 individuals, 34 male and 8 female, with the male skew likely due to our host university's gender ratio. 34 volunteers are in the 18-24 age category, with 3 volunteers in the 24-60 age range and the remaining 5 volunteers in the 65-90 age category. Volunteers in the 65-90 age category are hospital patients who volunteered to ride the scooter and allow testing of whether our model, trained primarily on younger volunteers, can also work well on typical mobility scooter users.
 
